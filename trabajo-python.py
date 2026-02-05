@@ -1,6 +1,7 @@
 # Trabajo ejercicios en pareja
 
-print("""_____________Calculadora de intereses._____________
+print("""
+_____________Calculadora de intereses._____________
 Ingrese los valores para calcular los intereses  
 de un capital por la cantidad de años estimada.
 ____________________________________________________
